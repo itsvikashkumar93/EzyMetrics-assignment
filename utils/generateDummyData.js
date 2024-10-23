@@ -46,35 +46,35 @@ const generateDummyData = async () => {
   const leads = [
     {
       name: "Alice Johnson",
-      email: "vikashjangir8270@gmail.com",
+      email: "dummyemail@gmail.com",
       status: "new",
       source: "organic",
       campaignId: createdCampaigns[0]._id, // Linking to Campaign A
     },
     {
       name: "Bob Smith",
-      email: "vikashjangir8270@gmail.com",
+      email: "dummyemail@gmail.com",
       status: "contacted",
       source: "paid",
       campaignId: createdCampaigns[1]._id, // Linking to Campaign B
     },
     {
       name: "Charlie Brown",
-      email: "vikashjangir8270@gmail.com",
+      email: "dummyemail@gmail.com",
       status: "converted",
       source: "referral",
       campaignId: createdCampaigns[2]._id, // Linking to Campaign C
     },
     {
       name: "David Wilson",
-      email: "vikashjangir8270@gmail.com",
+      email: "dummyemail@gmail.com",
       status: "new",
       source: "organic",
       campaignId: createdCampaigns[0]._id, // Linking to Campaign A
     },
     {
       name: "Eva Green",
-      email: "vikashjangir8270@gmail.com",
+      email: "dummyemail@gmail.com",
       status: "new",
       source: "paid",
       campaignId: createdCampaigns[1]._id, // Linking to Campaign B

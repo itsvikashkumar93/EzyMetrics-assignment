@@ -19,7 +19,7 @@ The EzyMetrics backend is designed to simulate the integration of a CRM and mark
 
 ## Features
 
-- Simulates fetching lead and campaign data using dummy data(Please update the leads emails to check the email notifications).
+- Simulates fetching lead and campaign data using dummy data(Please update the emails of all leads in './utils/generateDummyData.js' to check the email notifications).
 - Utilizes MongoDB for data storage and management.
 - Implements an ETL (Extract, Transform, Load) process for data processing.
 - Generates CSV reports for campaign metrics.
